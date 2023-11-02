@@ -10,10 +10,11 @@ class Database {
 	private $real_escape_string_exists;
 	
 	function __construct() {
-		$this->open_connection();
-		$this->magic_quotes_active = get_magic_quotes_gpc();
-		$this->real_escape_string_exists = function_exists("mysqli_real_escape_string");
+    	$this->open_connection();
+    	$this->magic_quotes_active = (function_exists("get_magic_quotes_gpc") && get_magic_quotes_gpc()) ? true : false;
+    	$this->real_escape_string_exists = function_exists("mysqli_real_escape_string");
 	}
+
 	
 	public function open_connection() {
 		$this->conn = mysqli_connect(server,user,pass);
