@@ -15,7 +15,6 @@ class Database {
 		$this->real_escape_string_exists = function_exists("mysqli_real_escape_string");
 	}
 	
-
 	public function open_connection() {
 		$this->conn = mysqli_connect(server,user,pass);
 		if(!$this->conn){
