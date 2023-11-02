@@ -163,14 +163,13 @@ Office hours: Mon-Sat, 8am-6pm (GMT+8) </br>
 
                             <h3 class="tm-section-subheader green-text">address:</h3>
                             <address>
- MEL-VI BLDG., OLONGAPO-GAPAN ROAD, CITY SAN PEDRO PAMPANGA
-                            </address>
+ EM-4/1, Sector V , Bidhannagar, Kolkata, West Bengal-700091                            </address>
                             
                             <div class="contact-info-links-container">
 							
                                 <span class="green-text contact-info">
 								 <h3 class="tm-section-subheader green-text">Office Directory:</h3>
-                                	Tel: <a href="tel:0100200340" class="contact-info-link"> Tel: 45566666</a></span>
+                                	Tel: <a href="tel:0100200340" class="contact-info-link"> Tel: 8794568714</a></span>
                                 <span class="green-text contact-info">
                                 	Email: <a href="mailto:info@company.com" class="contact-info-link"># </a></span>    
                             </div>
