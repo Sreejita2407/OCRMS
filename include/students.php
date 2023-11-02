@@ -1,5 +1,5 @@
 <?php
-require_once(LIB_PATH.DS.'database.php');
+require_once('C:/xampp/htdocs/project/include/database.php');
 class Student {
 	protected static  $tblname = "tblstudent";
 
