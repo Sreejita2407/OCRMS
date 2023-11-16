@@ -16,7 +16,7 @@ require_once("../include/initialize.php");
  <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="description" content="">
 <meta name="author" content="">
-<title>Portal ClassRecord St. Nicolas College</title>
+<title>Portal ClassRecord Techno Main Salt Lake/title>
 
 <!-- Bootstrap core CSS -->
 
